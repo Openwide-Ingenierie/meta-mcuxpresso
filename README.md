@@ -5,10 +5,6 @@ comprehensive software enablement package designed to simplify and accelerate
 application development with NXP's microcontrollers based on Arm Cortex-M cores
 and derivatives.
 
-Also, this layer provides support for:
-- FreeRTOS
-- RPMsg Lite
-
 ## Dependencies
 
 A gcc-arm-none-eabi toolchain is required to build the SDK. The toolchain
