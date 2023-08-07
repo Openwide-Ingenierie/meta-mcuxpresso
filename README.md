@@ -1,5 +1,8 @@
 # meta-mcuxpresso
 
+# This layer is archived and won't be maintained
+---
+
 This layer provides basic support for NXP MCUXpresso SDK, which is a
 comprehensive software enablement package designed to simplify and accelerate
 application development with NXP's microcontrollers based on Arm Cortex-M cores
